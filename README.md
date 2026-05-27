@@ -27,13 +27,17 @@ Aqui estão as principais tecnologias com as quais trabalho e estudo:
 
 ---
 
-<!--## 📊 Estatísticas do GitHub
+### 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RoginerHaiz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoginerHaiz&layout=compact&langs_count=7&theme=radical"/>
-</div>
--->
+<p align="left">
+  <!-- Gráfico de commits consecutivos -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RoginerHaiz&theme=tokyonight" alt="GitHub Streak" height="180em" />
+</p>
+
+<p align="left">
+  <!-- Novo Contador de Visitas (Hits) -->
+  <img src="https://hit.yhype.me/github/profile?user=RoginerHaiz" alt="Contador de Visitas" />
+</p>
 ---
 
 ## 📫 Vamos nos conectar?
