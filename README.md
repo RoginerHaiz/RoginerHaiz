@@ -1,4 +1,50 @@
-## Hi there 👋
+# Olá, eu sou o **Roginer**! 👋
+
+Seja bem-vindo(a) ao meu perfil do GitHub! Sou um desenvolvedor focado em criar soluções eficientes, estruturadas e sempre em busca de novos aprendizados no mundo da tecnologia.
+
+---
+
+## 🚀 Sobre Mim
+
+* 🎓 **Estudante de Ciência da Computação** (Março/2026 – Atualmente)
+* 📜 **Técnico em Desenvolvimento de Sistemas** (Fevereiro/2022 – Dezembro/2024)
+* 🎯 **Objetivo:** Aplicar conceitos teóricos profundos de computação no desenvolvimento de softwares robustos e escaláveis.
+
+---
+
+## 🛠️ Habilidades e Tecnologias
+
+Aqui estão as principais tecnologias com as quais trabalho e estudo:
+
+### **Front-End**
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+### **Back-End & Banco de Dados**
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+<!--## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RoginerHaiz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoginerHaiz&layout=compact&langs_count=7&theme=radical"/>
+</div>
+-->
+---
+
+## 📫 Vamos nos conectar?
+
+Se você quiser trocar uma ideia sobre projetos, tecnologia ou oportunidades, sinta-se à vontade para me chamar:
+
+<!--* 💼 **LinkedIn:** [Seu Nome ou Link do Perfil](https://linkedin.com/in/seu-perfil)-->
+* 📧 **E-mail:** roginer.haiz@gmail.com
+
+---
+<p align="center">Desenvolvido por Roginer Haiz.</p>
 
 <!--
 **RoginerHaiz/RoginerHaiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
